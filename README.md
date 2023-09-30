@@ -21,4 +21,16 @@ Website Screenshot:
 <img width="946" alt="A2_1" src="https://github.com/ElliotP-K/ElliotP-K.github.io/assets/77300478/a644ff4e-0e8e-4ac8-8a2a-cef1918a3a55">
 
 
+Activity 2:
+
+Repo screenshot:
+
+<img width="869" alt="A3_1" src="https://github.com/ElliotP-K/ElliotP-K.github.io/assets/77300478/9172304b-eaf9-4660-ad41-9525f0140813">
+
+Website Screenshot:
+
+<img width="911" alt="A3_2" src="https://github.com/ElliotP-K/ElliotP-K.github.io/assets/77300478/cdd8d1a9-661e-410a-afda-0d04293d1dc5">
+
+
+
 
